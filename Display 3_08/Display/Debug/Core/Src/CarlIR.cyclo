@@ -1,0 +1,7 @@
+CarlIR.c:31:6:Interrupt_flank	2
+CarlIR.c:53:6:IR_Carrier_ON	1
+CarlIR.c:57:6:IR_Carrier_OFF	1
+CarlIR.c:61:6:IR_Read	1
+CarlIR.c:66:6:IR_UNDERSTAND	7
+CarlIR.c:115:6:IR_sent	6
+CarlIR.c:146:6:IR_Debug	4

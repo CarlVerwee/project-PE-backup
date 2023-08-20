@@ -1,0 +1,11 @@
+Carl.c:31:6:InitTouch	1
+Carl.c:39:6:All_Carl_Inits	1
+Carl.c:59:6:Touch	1
+Carl.c:69:6:Interrupt_flank	2
+Carl.c:91:6:IR_Carrier_ON	1
+Carl.c:95:6:IR_Carrier_OFF	1
+Carl.c:99:6:IR_Read	1
+Carl.c:104:6:IR_UNDERSTAND	7
+Carl.c:153:6:IR_sent	6
+Carl.c:184:6:IR_Debug	4
+Carl.c:204:6:whilelus	3

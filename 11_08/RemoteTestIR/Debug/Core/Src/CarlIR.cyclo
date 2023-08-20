@@ -1,0 +1,7 @@
+CarlIR.c:35:6:cleartijd	2
+CarlIR.c:52:6:Interrupt_flank	4
+CarlIR.c:80:6:IR_Carrier_ON	1
+CarlIR.c:84:6:IR_Carrier_OFF	1
+CarlIR.c:88:6:IR_Read	1
+CarlIR.c:93:6:IR_UNDERSTAND	11
+CarlIR.c:163:6:IR_sent	5

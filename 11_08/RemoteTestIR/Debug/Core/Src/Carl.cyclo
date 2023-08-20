@@ -1,0 +1,5 @@
+Carl.c:23:6:Starting	1
+Carl.c:35:6:All_Carl_Inits	4
+Carl.c:61:6:WriteToGeheugen	2
+Carl.c:133:6:TakefromGeheugen	4
+Carl.c:180:6:whilelus	7

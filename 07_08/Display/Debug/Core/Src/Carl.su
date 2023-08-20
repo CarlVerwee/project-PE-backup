@@ -1,0 +1,4 @@
+../Core/Src/Carl.c:22:6:Starting	8	static
+../Core/Src/Carl.c:34:6:All_Carl_Inits	16	static
+../Core/Src/Carl.c:128:6:TakefromGeheugen	40	static
+../Core/Src/Carl.c:169:6:whilelus	16	static

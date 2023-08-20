@@ -1,0 +1,4 @@
+../Core/Src/CarlTouch.c:21:6:InitTouch	40	static
+../Core/Src/CarlTouch.c:31:6:Touch	64	static
+../Core/Src/CarlTouch.c:81:6:ReadDevice	48	static
+../Core/Src/CarlTouch.c:101:6:ReadButton	96	static

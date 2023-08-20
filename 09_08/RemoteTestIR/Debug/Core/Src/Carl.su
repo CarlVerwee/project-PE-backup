@@ -1,0 +1,16 @@
+../Core/Src/Carl.c:33:6:InitTouch	4	static
+../Core/Src/Carl.c:41:6:All_Carl_Inits	8	static
+../Core/Src/Carl.c:64:6:Touch	4	static
+../Core/Src/Carl.c:74:6:Interrupt_flank	16	static
+../Core/Src/Carl.c:96:6:IR_Carrier_ON	8	static
+../Core/Src/Carl.c:100:6:IR_Carrier_OFF	8	static
+../Core/Src/Carl.c:104:6:IR_Read	4	static
+../Core/Src/Carl.c:109:6:IR_UNDERSTAND	16	static
+../Core/Src/Carl.c:158:6:IR_sent	24	static
+../Core/Src/Carl.c:189:6:IR_Debug	24	static
+../Core/Src/Carl.c:211:6:DrawRectangle	48	static
+../Core/Src/Carl.c:254:6:DrawVolumebuttonUp	4	static
+../Core/Src/Carl.c:258:6:DrawVolumebuttonDown	4	static
+../Core/Src/Carl.c:262:6:mainscreen	24	static
+../Core/Src/Carl.c:278:6:logo	16	static
+../Core/Src/Carl.c:285:6:whilelus	8	static

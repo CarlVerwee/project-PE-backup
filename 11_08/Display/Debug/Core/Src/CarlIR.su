@@ -1,0 +1,7 @@
+../Core/Src/CarlIR.c:33:6:cleartijd	16	static
+../Core/Src/CarlIR.c:44:6:Interrupt_flank	8	static
+../Core/Src/CarlIR.c:72:6:IR_Carrier_ON	8	static
+../Core/Src/CarlIR.c:76:6:IR_Carrier_OFF	8	static
+../Core/Src/CarlIR.c:80:6:IR_Read	4	static
+../Core/Src/CarlIR.c:85:6:IR_UNDERSTAND	32	static
+../Core/Src/CarlIR.c:140:6:IR_sent	24	static

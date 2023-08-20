@@ -1,0 +1,6 @@
+../Core/Src/Carl.c:22:6:Starting	8	static
+../Core/Src/Carl.c:34:6:All_Carl_Inits	16	static
+../Core/Src/Carl.c:58:6:WriteToGeheugen	24	static
+../Core/Src/Carl.c:81:6:DeleteFromGeheugen	40	static
+../Core/Src/Carl.c:125:6:TakefromGeheugen	64	dynamic
+../Core/Src/Carl.c:157:6:whilelus	8	static
